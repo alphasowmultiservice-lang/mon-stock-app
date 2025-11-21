@@ -1,1 +1,0 @@
-# mon-stock-app
